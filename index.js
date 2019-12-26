@@ -1,0 +1,2 @@
+exports.storageAssigner = (req, res) => {
+ }
